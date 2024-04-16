@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inside out",
+      "releasedate": "14 June 2024",
+      "image": "https://cdn.moviefone.com/admin-uploads/posters/insideout2-movie-poster_1699557843.jpg?d=360x540&q=60",
+      "duration": "160 Minutes",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Avatar The Way of Water",
+      "releasedate": "16 December 2022",
+      "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/4526/1534526-v-ebf6f46b5514",
+      "duration": "180 Minutes",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Guardians of the Galaxy Volume 3",
+      "releasedate": "5 May 2023",
+      "image": "https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+      "duration": "140 Minutes",
+      "ratings": 4
+    },
+    {
+      "id": 1,
+      "title": "Aquaman and the Lost Kingdom",
+      "releasedate": "22 December 2023",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Aquaman_and_the_Lost_Kingdom_poster.jpg",
+      "duration": "120 Minutes",
+      "ratings": 4
+    }
+  ]
+}
